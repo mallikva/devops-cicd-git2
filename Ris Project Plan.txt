@@ -1,7 +1,10 @@
 // RIS IRM project plan
 
 //Edited this in Git hub
+<<<<<<< HEAD
 
 //Updates made in git hub directly
 
 //updates made in local repo
+=======
+>>>>>>> parent of 91db299 (Update Ris Project Plan.txt)
